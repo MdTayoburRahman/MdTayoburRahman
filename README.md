@@ -31,5 +31,22 @@ Hi, I'm Md Tayoubur Rahman, I'm an experienced software developer proficient in 
 </br>
 </div>
 
+## Connect with me:
+
+<div align="center">
+
+<a href="https://linkedin.com/in/mdtayoburrahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Your Name" height="30" width="40" /></a>
+
+<a href="https://www.facebook.com/MdTayoburRahmanKibrea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Your Name" height="30" width="40" /></a>
+
+<a href="https://wa.me/01717932348" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="Your Name" height="30" width="40" /></a>
+
+<a href="mailto:tayoburrahman119@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Your Name" height="30" width="40" /></a>
+
+<a href="https://youtube.com/@codewithgolamkibrea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Your Name" height="30" width="40" /></a>
+
+</div>
+
+
 ###
   ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
