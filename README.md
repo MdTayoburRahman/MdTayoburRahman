@@ -5,7 +5,7 @@
 
 # MD TAYOBUR RAHMAN
 
-## Native Android and Backend Developer
+## Native Android and Laravel Developer
 
 Hi, I'm Md Tayoubur Rahman, I'm an experienced software developer proficient in Java, Android Studio, Laravel, PHP, JavaScript, HTML, CSS, Bootstrap, and MySQL. Throughout my career, I have leveraged these skills to design, develop, and deploy various robust and user-friendly applications. My strong problem-solving skills, coupled with a passion for continuous learning, enable me to adapt to new trends and technologies effectively. Whether working independently or as part of a team, I bring strong communication skills, attention to detail, and a focus on delivering high-quality products that enhance user experience.
 
