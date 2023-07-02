@@ -31,6 +31,9 @@ Hi, I'm Md Tayoubur Rahman, I'm an experienced software developer proficient in 
 </br>
 </div>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MdTayoburRahman)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## Connect with me:
 
 <table>
