@@ -8,7 +8,7 @@ Hi, I'm Md Tayoubur Rahman, I'm an experienced software developer proficient in 
 
 <div align="left" justify>
 <!--  JS Framework  -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" height="40" width="52" alt="Vue logo" />
 <!--  CSS Frameworks  -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-plain.svg" height="40" width="52" alt="materialui"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" width="52" alt="tailwindcss logo"  />
@@ -21,7 +21,7 @@ Hi, I'm Md Tayoubur Rahman, I'm an experienced software developer proficient in 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" width="52" alt="android logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="52" alt="php logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" width="52" alt="laravel logo" />
+  <img src="https://laravel.com/img/logomark.min.svg" height="40" width="52" alt="laravel logo" />
 </div>
 </br>
 </div>
