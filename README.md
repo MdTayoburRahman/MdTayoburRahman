@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-Hi, I'm Md Tayoubur Rahman, I'm an experienced software developer proficient in Java, Android Studio, Laravel, PHP, JavaScript, HTML, CSS, Bootstrap, and MySQL. Throughout my career, I have leveraged these skills to design, develop, and deploy various robust and user-friendly applications. My strong problem-solving skills, coupled with a passion for continuous learning, enable me to adapt to new trends and technologies effectively. Whether working independently or as part of a team, I bring strong communication skills, attention to detail, and a focus on delivering high-quality products that enhance user experience.
+Hi, I'm Md Tayoubur Rahman, an experienced software developer proficient in Java, Android Studio, Laravel, PHP, JavaScript, HTML, CSS, Bootstrap, and MySQL. Throughout my career, I have leveraged these skills to design, develop, and deploy various robust and user-friendly applications. My strong problem-solving skills, coupled with a passion for continuous learning, enable me to adapt to new trends and technologies effectively. Whether working independently or as part of a team, I bring strong communication skills, attention to detail, and a focus on delivering high-quality products that enhance user experience.
 
 ## Skills :
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
@@ -18,11 +18,11 @@ Hi, I'm Md Tayoubur Rahman, I'm an experienced software developer proficient in 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-FF5733?style=flat-square&logo=api&logoColor=white)
 
 </br>
 ### Numbers
-![MdTayoburRahman's Stats](https://github-readme-stats.vercel.app/api?username=MdTayoburRahman&theme=darcula&show_icons=true&hide_border=true&count_private=true)
+
+![MdTayoburRahman's Stats](https://github-readme-stats.vercel.app/api?username=hasinhayder&theme=darcula&show_icons=true&hide_border=true&count_private=true)
 
 ![MdTayoburRahman's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MdTayoburRahman&theme=darcula&hide_border=true)
 
