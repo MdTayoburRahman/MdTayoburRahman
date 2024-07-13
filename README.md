@@ -4,6 +4,9 @@ Hi, I'm Md Tayoubur Rahman, an experienced software developer proficient in Java
 
 ## Skills :
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
+
 ![Android SDK](https://img.shields.io/badge/Android%20SDK-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -18,6 +21,16 @@ Hi, I'm Md Tayoubur Rahman, an experienced software developer proficient in Java
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Room Database](https://img.shields.io/badge/Room%20Database-3DDC84?style=flat-square&logo=room&logoColor=white)
+![XML](https://img.shields.io/badge/XML-FF6600?style=flat-square&logo=xml&logoColor=white)
+![MVVM](https://img.shields.io/badge/MVVM-02569B?style=flat-square&logo=mvvm&logoColor=white)
+![Retrofit](https://img.shields.io/badge/Retrofit-00796B?style=flat-square&logo=retrofit&logoColor=white)
+![RxJava](https://img.shields.io/badge/RxJava-B7178C?style=flat-square&logo=reactivex&logoColor=white)
+
+
+
+
 
 </br>
 
