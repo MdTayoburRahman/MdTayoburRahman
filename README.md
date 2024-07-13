@@ -6,7 +6,6 @@ Hi, I'm Md Tayoubur Rahman, an experienced software developer proficient in Java
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
-
 ![Android SDK](https://img.shields.io/badge/Android%20SDK-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -27,11 +26,12 @@ Hi, I'm Md Tayoubur Rahman, an experienced software developer proficient in Java
 ![MVVM](https://img.shields.io/badge/MVVM-02569B?style=flat-square&logo=mvvm&logoColor=white)
 ![Retrofit](https://img.shields.io/badge/Retrofit-00796B?style=flat-square&logo=retrofit&logoColor=white)
 ![RxJava](https://img.shields.io/badge/RxJava-B7178C?style=flat-square&logo=reactivex&logoColor=white)
-
-
-
-
-
+![LiveData](https://img.shields.io/badge/LiveData-3DDC84?style=flat-square&logo=livedata&logoColor=white)
+![Data Binding](https://img.shields.io/badge/Data%20Binding-3DDC84?style=flat-square&logo=data-binding&logoColor=white)
+![Gson](https://img.shields.io/badge/Gson-FFCA28?style=flat-square&logo=gson&logoColor=white)
+![Proguard](https://img.shields.io/badge/Proguard-000000?style=flat-square&logo=proguard&logoColor=white)
+![Glide](https://img.shields.io/badge/Glide-4285F4?style=flat-square&logo=glide&logoColor=white)
+![Picasso](https://img.shields.io/badge/Picasso-74A9D9?style=flat-square&logo=picasso&logoColor=white)
 </br>
 
 ### Numbers
