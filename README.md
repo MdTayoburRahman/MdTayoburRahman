@@ -17,11 +17,11 @@ Hi, I'm Md Tayoubur Rahman, I'm an experienced software developer proficient in 
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white)
 </br>
 ### Numbers
-![hasinhayder's Stats](https://github-readme-stats.vercel.app/api?username=hasinhayder&theme=darcula&show_icons=true&hide_border=true&count_private=true)
+![hasinhayder's Stats](https://github-readme-stats.vercel.app/api?username=MdTayoburRahman&theme=darcula&show_icons=true&hide_border=true&count_private=true)
 
-![hasinhayder's Streak](https://github-readme-streak-stats.herokuapp.com/?user=hasinhayder&theme=darcula&hide_border=true)
+![hasinhayder's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MdTayoburRahman&theme=darcula&hide_border=true)
 
-![hasinhayder's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasinhayder&theme=darcula&show_icons=true&hide_border=true&layout=compact)
+![hasinhayder's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MdTayoburRahman&theme=darcula&show_icons=true&hide_border=true&layout=compact)
 
 ### Where to find me:
 <table>
