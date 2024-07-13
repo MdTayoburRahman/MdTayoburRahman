@@ -15,11 +15,15 @@ Hi, I'm Md Tayoubur Rahman, I'm an experienced software developer proficient in 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white)
-
-
 </br>
-## Connect with me:
+### Numbers
+![hasinhayder's Stats](https://github-readme-stats.vercel.app/api?username=hasinhayder&theme=darcula&show_icons=true&hide_border=true&count_private=true)
 
+![hasinhayder's Streak](https://github-readme-streak-stats.herokuapp.com/?user=hasinhayder&theme=darcula&hide_border=true)
+
+![hasinhayder's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasinhayder&theme=darcula&show_icons=true&hide_border=true&layout=compact)
+
+### Where to find me:
 <table>
   <tr>
     <td align="center">
