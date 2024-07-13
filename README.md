@@ -18,6 +18,7 @@ Hi, I'm Md Tayoubur Rahman, I'm an experienced software developer proficient in 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-FF5733?style=flat-square&logo=api&logoColor=white)
 
 </br>
 ### Numbers
