@@ -54,6 +54,3 @@ Hi, I'm Md Tayoubur Rahman, I'm an experienced software developer proficient in 
   </tr>
 </table>
 
-
-###
-  ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
