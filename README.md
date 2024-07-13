@@ -3,9 +3,11 @@
 Hi, I'm Md Tayoubur Rahman, I'm an experienced software developer proficient in Java, Android Studio, Laravel, PHP, JavaScript, HTML, CSS, Bootstrap, and MySQL. Throughout my career, I have leveraged these skills to design, develop, and deploy various robust and user-friendly applications. My strong problem-solving skills, coupled with a passion for continuous learning, enable me to adapt to new trends and technologies effectively. Whether working independently or as part of a team, I bring strong communication skills, attention to detail, and a focus on delivering high-quality products that enhance user experience.
 
 ## Skills :
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![Android SDK](https://img.shields.io/badge/Android%20SDK-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0CC1F3?style=flat-square&logo=docker&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
@@ -15,13 +17,15 @@ Hi, I'm Md Tayoubur Rahman, I'm an experienced software developer proficient in 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white)
+
 </br>
 ### Numbers
-![hasinhayder's Stats](https://github-readme-stats.vercel.app/api?username=MdTayoburRahman&theme=darcula&show_icons=true&hide_border=true&count_private=true)
+![MdTayoburRahman's Stats](https://github-readme-stats.vercel.app/api?username=MdTayoburRahman&theme=darcula&show_icons=true&hide_border=true&count_private=true)
 
-![hasinhayder's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MdTayoburRahman&theme=darcula&hide_border=true)
+![MdTayoburRahman's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MdTayoburRahman&theme=darcula&hide_border=true)
 
-![hasinhayder's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MdTayoburRahman&theme=darcula&show_icons=true&hide_border=true&layout=compact)
+![MdTayoburRahman's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MdTayoburRahman&theme=darcula&show_icons=true&hide_border=true&layout=compact)
 
 ### Where to find me:
 <table>
